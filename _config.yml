@@ -1,0 +1,14 @@
+layout_spectrum: 0.013188422191888094
+typography_spectrum: 0.950842639664188
+color:
+  brandStrength: 0.5799816965591162
+  lightness: 0.14436912746168673
+  saturation: 0.03173577529378235
+  rhythmicContrast: 0.00582549930550158
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: ETS
